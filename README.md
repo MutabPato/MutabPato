@@ -19,8 +19,8 @@
 ---
 
 ### 📈 GitHub Stats  
-![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutabazipatrick&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutabazipatrick&layout=compact&theme=tokyonight)  
+![Patrick's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mutabpato&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mutabpato&layout=compact&theme=tokyonight)  
 
 ---
 
