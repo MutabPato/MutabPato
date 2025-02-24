@@ -2,7 +2,6 @@
 
 💻 **Backend Web Developer**  
 🌍 Passionate about leveraging technology for businesses  
-🚀 Currently building **Dhaabu**, a discussion forum for Africans  
 
 ---
 
