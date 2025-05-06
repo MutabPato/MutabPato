@@ -61,7 +61,7 @@ I believe in the power of **technology to transform businesses**. My long-term v
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mutabpato&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabapato&layout=compact&theme=radical" alt="Top languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mutabpato&layout=compact&theme=radical" alt="Top languages" height="150"/>
 </p>
 
 ---
